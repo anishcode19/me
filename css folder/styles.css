@@ -1,0 +1,138 @@
+.topcontainer{
+  background-color:#EAF6F6;
+  position: relative;
+  padding-top: 200px;
+}
+h1{
+margin:50px auto 0 auto;
+font-family: 'Sacramento', cursive;
+font-size: 5.625rem;
+color:#66BFBF;
+line-height: 2;
+}
+h2{
+font-family: 'Montserrat', sans-serif;
+font-size: 2.5rem;
+color:#66BFBF;
+font-weight: normal;
+}
+h3{
+font-family: 'Montserrat', sans-serif;
+color:  #11999E;
+}
+a{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  text-decoration: none;
+}
+a:hover{
+  color: #EAF6F6;
+}
+body{
+  margin:0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-weight:bold;
+}
+.middelcontainer{
+}
+.bottomcontainer{
+background-color:#66BFBF;
+padding: 50px;
+
+}
+.un{
+  text-decoration:underline;
+}
+.bottom-cloud{
+  position:absolute;
+  left:350px;
+  bottom: 300px;
+}
+.top-cloud{
+  position:absolute;
+  right:400px;
+  top:60px;
+}
+.img{
+width:25%;
+border-radius: 50%;
+}
+.cartoon{
+  width:150px;
+  height:250px;
+  border-radius: 100%;
+}
+.skill-row{
+  width:50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.coding-img{
+  width:30%;
+  height:200px;
+  border-radius: 50%;
+  float: left;
+  margin-right: 30px;
+}
+.hobbies-img{
+  width:25%;
+  border-radius: 50%;
+  float:right;
+  margin-left: 30px;
+}
+.profile{
+  width:50%;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+}
+p{
+  color:#40514E;
+}
+.copyright{
+  color:#EAF6F6;
+  font-size:0.75rem;
+  padding:20px 0px;
+}
+.contact-me{
+  width:50%;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+}
+.footer-link{
+  display: inline-block;
+  width:150px;
+}
+hr{
+  border: none;
+  border-top: dotted 10px #EAF6F6;
+  width:50%;
+}
+.dream{
+text-align: center;
+}
+.btn{
+	background:linear-gradient(to bottom, #66BFBF 100%, #5cbf2a 10%);
+	background-color:#44c767;
+	border-radius:10px;
+	border:1px solid #66BFBF;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Montserrat', sans-serif;
+	font-size:17px;
+	font-weight:bold;
+	padding:10px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #5cbf2a 5%, #44c767 100%);
+	background-color:#5cbf2a;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
